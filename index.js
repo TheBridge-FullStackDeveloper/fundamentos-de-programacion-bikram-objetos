@@ -42,3 +42,15 @@ const grupos = Concierto.grupos
 const RGB = [Led.rojo, Led.verde, Led.azul]
 
 //9
+Portatil.modelo = 'P345'
+
+//10
+Concierto.cartelera.push("Guns N' Roses")
+
+//11
+Concierto.fecha = new Date(06/03/2022)
+
+//12
+Impresora.imprimiendo = { nombreArchivo: '', copias: '', numPaginas: '' }
+
+//13
