@@ -102,3 +102,16 @@ const pixeles = Pantalla.pixeles
 
 //22
 const especificaciones = Movil['especificaciones']
+
+
+//23
+Grupo.numIntegrantes = 5
+
+//24
+Pantalla.dimensiones = '1920x1080'
+
+//25
+Led.encendido = !Led.encendido
+
+//26
+Movil.temperatura = '20º'
