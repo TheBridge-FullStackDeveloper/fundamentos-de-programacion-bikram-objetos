@@ -30,3 +30,15 @@ const Perro = {
 };
 
 //5
+const marcaPortatil = Portatil.marca
+
+//6
+const marcaPortatil2 = Portatil['marca']
+
+//7
+const grupos = Concierto.grupos
+
+//8
+const RGB = [Led.rojo, Led.verde, Led.azul]
+
+//9
