@@ -87,4 +87,18 @@ const Pais = {
     gentilicio: '',
 };
 
+
 //18
+const codError = O_Error.codigo
+
+//19
+const integrantes = Grupo.integrantes
+
+//20
+const nivelesTinta = Impresora.tinta
+
+//21
+const pixeles = Pantalla.pixeles
+
+//22
+const especificaciones = Movil['especificaciones']
