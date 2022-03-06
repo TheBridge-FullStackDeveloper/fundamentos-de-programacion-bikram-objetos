@@ -14,3 +14,19 @@ const Casa = {
 };
 
 //3
+const FullStackDeveloper = {
+    lenguajes: [],
+    proyectos: [],
+};
+
+//4
+const Perro = {
+    nombre: 'nombre',
+    raza: ':(',
+    color: 'color',
+    edad: 00,
+    ladrar: () => console.log('guau'),
+    popo: () => Math.random() * 3
+};
+
+//5
