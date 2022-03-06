@@ -53,4 +53,38 @@ Concierto.fecha = new Date(06/03/2022)
 //12
 Impresora.imprimiendo = { nombreArchivo: '', copias: '', numPaginas: '' }
 
+
 //13
+const Noticia = {
+    titular: '',
+    cuerpo: '',
+};
+
+//14
+const Persona = {
+    nombre: '',
+    apellidos: '',
+    edad: '',
+};
+
+//15
+const Avion = {
+    numPasajeros: '',
+    despegar: () => console.log('despegando'),
+    volar: () => console.log('llegando al destino'),
+    aterrizar: () =>  console.log('aterrizando'),
+};
+
+//16
+const Paquete = {
+    contenido: [],
+};
+
+//17
+const Pais = {
+    numHabitantes: '',
+    continente: '',
+    gentilicio: '',
+};
+
+//18
